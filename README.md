@@ -1,2 +1,0 @@
-# Tayler.g
-movement mania
